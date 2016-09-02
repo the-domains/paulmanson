@@ -1,23 +1,23 @@
-name: PaulManson
-favicon: null
-layout_spectrum: 0.774912620196119
 typography_spectrum: 0.9867707632947713
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.3772506939712912
   lightness: 0.2478447707835585
   saturation: 0.5531306252814829
   rhythmicContrast: 0.9579006640706211
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.774912620196119
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: PaulManson
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
